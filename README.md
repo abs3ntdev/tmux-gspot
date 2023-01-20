@@ -25,7 +25,7 @@ Press prefix + I to install it.
 Clone the repo:
 
 ```bash
-$ git clone https://github.com/abs3ntdev/tmux-gospt ~/clone/path
+$ git clone https://gitea.asdf.cafe/abs3nt/tmux-gospt ~/clone/path
 ```
 
 Add this line to your .tmux.conf:
