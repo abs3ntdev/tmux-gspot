@@ -1,4 +1,4 @@
-# Tmux Spotify-TUI plugin
+# Tmux gospt plugin
 
 Plugin that shows current playing song with [gospt](https://gitea.asdf.cafe/abs3nt/gospt).
 
