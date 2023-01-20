@@ -40,10 +40,6 @@ Reload TMUX environment with:
 $ tmux source-file ~/.tmux.conf
 ```
 
-or:
-
-Press prefix + R to install it.
-
 ___
 
 ### License
