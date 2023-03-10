@@ -1,6 +1,6 @@
 # Tmux gospt plugin
 
-Plugin that shows current playing song with [gospt](https://gitea.asdf.cafe/abs3nt/gospt).
+Plugin that shows current playing song with [gospt](https://git.asdf.cafe/abs3nt/gospt).
 
 ![Screenshot](https://user-images.githubusercontent.com/86447830/213586650-1a1d67c6-c029-4724-b8c2-f027deb16bb4.png)
 
@@ -25,7 +25,7 @@ Press prefix + I to install it.
 Clone the repo:
 
 ```bash
-$ git clone https://gitea.asdf.cafe/abs3nt/tmux-gospt ~/clone/path
+$ git clone https://git.asdf.cafe/abs3nt/tmux-gospt ~/clone/path
 ```
 
 Add this line to your .tmux.conf:
