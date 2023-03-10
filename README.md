@@ -1,5 +1,6 @@
 # Tmux gospt plugin
 
+
 Plugin that shows current playing song with [gospt](https://git.asdf.cafe/abs3nt/gospt).
 
 ![Screenshot](https://user-images.githubusercontent.com/86447830/213586650-1a1d67c6-c029-4724-b8c2-f027deb16bb4.png)
