@@ -1,7 +1,7 @@
 #!/bin/bash
 set -euo pipefail
 
-song="$(gospt nowplaying)"
+song="$(gspot nowplaying)"
 
 if [[ $song =~ ['⏸'] ]]; then
 
