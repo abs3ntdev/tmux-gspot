@@ -1,5 +1,5 @@
 # Tmux gspot plugin
-
+:)
 
 Plugin that shows current playing song with [gspot](https://git.asdf.cafe/abs3nt/gspot).
 
